@@ -1,0 +1,9 @@
+User-agent: *
+User-agent: Baiduspider
+Disallow: /a/*
+Disallow: /s/*
+Disallow: /d/*
+Disallow: /search/*
+Disallow: /tag/*
+Disallow: /app/*
+Disallow: /link
